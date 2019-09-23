@@ -1,5 +1,5 @@
 program task3
-        integer:: ind, buffer, n
+        integer:: ind, n
         real:: a(1024)
         read*,n
         ind = 1
